@@ -17,7 +17,7 @@ Based on various meteorological surveys and people's styles, the service provide
 We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 ### Acknowledgement: 
-The dataset is taken from Kaggle:\
+The dataset is referred from Kaggle:\
 https://www.kaggle.com/yasserh/bikeshare
 
 ### Objective:
